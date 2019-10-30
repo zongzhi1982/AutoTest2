@@ -2,13 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19da92d2-57a9-4856-8354-fabcd9b903d9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/target/classes/com/course/testng/BasicAnnotation.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/target/classes/com/course/testng/DependTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/target/classes/com/course/testng/ExpectedException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/target/classes/com/course/testng/IgnoreTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/target/classes/com/course/testng/TimeOutTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/target/classes/com/course/testng/groups/GroupsOnClass1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/target/classes/com/course/testng/groups/GroupsOnClass2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/target/classes/com/course/testng/groups/GroupsOnClass3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/target/classes/com/course/testng/groups/GroupsOnMethod.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/target/classes/com/course/testng/multiThread/MultiThreadOnAnnotion.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/target/classes/com/course/testng/multiThread/MultiThreadOnXml.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/target/classes/com/course/testng/paramter/DataProviderTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/target/classes/com/course/testng/paramter/ParamterTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/target/classes/com/course/testng/suite/LoginTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/target/classes/com/course/testng/suite/PayTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/target/classes/com/course/testng/suite/SuiteConfig.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/AutoTest2.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_10.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/Chapter5.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/BasicAnnotation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/DependTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/ExpectedException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/IgnoreTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/TimeOutTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/groups/GroupsOnClass1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/groups/GroupsOnClass2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/groups/GroupsOnClass3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/groups/GroupsOnMethod.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/multiThread/MultiThreadOnAnnotion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/multiThread/MultiThreadOnXml.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/paramter/DataProviderTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/paramter/ParamterTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/suite/LoginTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/suite/PayTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/suite/SuiteConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/src/main/resources/Paramter.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/src/main/resources/groupsOnClass.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/src/main/resources/multiThread.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/src/main/resources/suite.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/target/classes/Paramter.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/target/classes/groupsOnClass.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/target/classes/multiThread.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter5/target/classes/suite.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter6/Chapter6.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter6/pom.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
@@ -432,7 +476,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572400867778</updated>
-      <workItem from="1572400873000" duration="2168000" />
+      <workItem from="1572400873000" duration="2582000" />
     </task>
     <servers />
   </component>
@@ -469,7 +513,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2168000" />
+    <option name="totallyTimeSpent" value="2582000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
